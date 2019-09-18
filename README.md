@@ -3,3 +3,4 @@
 
 - [前端代码优化心得](https://github.com/yangzhiyang/blog/issues/1)
 - [手写一个符合 Promise/A+ 规范的 Promise](https://github.com/yangzhiyang/blog/issues/2)
+- [解决汉诺塔问题的递归思维](https://github.com/yangzhiyang/blog/issues/3)
