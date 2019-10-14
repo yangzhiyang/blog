@@ -9,3 +9,5 @@
 - [手写深拷贝](https://github.com/yangzhiyang/blog/issues/5)
 - [一个 Promise.allSettled 的 polyfill](https://github.com/yangzhiyang/blog/issues/6)
 - [JS 设计模式 - 单例模式](https://github.com/yangzhiyang/blog/issues/7)
+- [JS 设计模式 - 装饰器模式](https://github.com/yangzhiyang/blog/issues/8)
+- [JS 设计模式 - 适配器模式](https://github.com/yangzhiyang/blog/issues/9)
