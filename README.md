@@ -17,3 +17,4 @@
 - [React useState 原理实现](https://github.com/yangzhiyang/blog/issues/13)
 - [HTTP 缓存机制梳理](https://github.com/yangzhiyang/blog/issues/14)
 - [用 SVG 绘制一个组织架构树](https://github.com/yangzhiyang/blog/issues/15)
+- [JS栈结构的简单封装](https://github.com/yangzhiyang/blog/issues/16)
